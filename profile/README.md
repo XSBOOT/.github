@@ -1,4 +1,4 @@
-XSBOOT is a bare-metal USB loader for the iPhone XS (A12/T8020).
+XSBOOT is a bare-metal USB loader for the iPhone XS (A12/T8020). Our goal is to launch Linux on a bare-metal iPhone.
 
 The software may or may not be extended to support other iPhone models in the future.
 
